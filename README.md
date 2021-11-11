@@ -1,4 +1,5 @@
-This is a basic recipe site for the odin project course.
+Basic recipe sight for the odin porject course.
 
-Skill demonstrated :
-    
+Skills Demonstrated: 
+    html fundamentals
+    css fundamentals
